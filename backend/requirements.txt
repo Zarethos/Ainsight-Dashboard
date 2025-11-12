@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+psutil
+httpx
+pydantic
+aiofiles
+python-dotenv
+loguru
+openai
