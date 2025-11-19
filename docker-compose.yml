@@ -20,4 +20,4 @@ volumes:
 - ./frontend:/app
 
 wave:
-force; true
+force; false
